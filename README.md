@@ -1,13 +1,21 @@
 # Amazon_Vine_Analysis
 ## Overview
 The purpose of the included analysis is to further explore trends in user reviews for kitchen items based on certain factors (number of reviews by customer, date of reviews, items reviewed as part of Vine program) by creating tables in a database.
+
 Customer/Number of Reviews:
+
 ![customers_table.png](customers_table.png)
+
 Products included:
+
 ![products_table.png](products_table.png)
+
 Review/Date:
+
 ![review_id_table.png](review_id_table.png)
+
 Vine program reviews:
+
 ![vine_table.png](vine_table.png)
 
 Reviews were further organized to compare Vine program reviews versus unpaid user reviews of products - specifically 5-star reviews. 
